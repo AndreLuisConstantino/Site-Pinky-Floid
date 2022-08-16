@@ -10,7 +10,10 @@ header{
     background-color: black;
     height: 100px;
 }
-
+.imagemheader{
+    align-items: center;
+    
+}
 .titulodois{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
