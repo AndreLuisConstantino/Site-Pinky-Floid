@@ -23,28 +23,28 @@ header{
     margin-top: 20px;
     font-weight: 50px;
 }
-.Conteudo1{
+.conteudo1{
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-.ListaDeAlbuns{
+.listadealbuns{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 50px;
     font-weight: 30px;
 }
-.IntroducaoAsFotos{
+.introducaoasfotos{
     text-align: center;
     justify-content: center;
     margin-top: 30px;
     margin-bottom: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.WishYouWhereHere{
+.wishyouwherehere{
     height: 200px;
     width: auto;
 }
-.ImagemWish{
+.imagemwish{
     padding-left: 20px;
     margin-top: 20px;
     justify-content: center;
@@ -52,21 +52,21 @@ header{
     align-items: center;
     
 }
-.ImagemTheDark{
+.imagemthedark{
     height: 200px;
     width: auto;
 
 }
-.ImgTheDark{
+.imgthedark{
    display: flex;
    padding-left: 10px ;
 }
-.TheAnimals{
+.theanimals{
    justify-content: center;
     height: 200px;
     padding-left: 10px ;
 }
-.Final{
+.final{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 70px;
