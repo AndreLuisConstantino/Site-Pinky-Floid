@@ -55,14 +55,11 @@ header{
     align-items: center;
     
 }
-.imagemthedark{
-    height: 200px;
-    width: auto;
-
-}
 .imgthedark{
    display: flex;
    padding-left: 10px ;
+   height: 200px;
+   width: auto;
 }
 .theanimals{
    justify-content: center;
