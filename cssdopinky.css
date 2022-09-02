@@ -85,27 +85,24 @@ footer{
 @media (max-width: 660px){
     
     body{
-        
-        padding-right: 10px;
+        padding: 0;
     }
     header{
         background-color: transparent;
-        height: 50vw;
+        height: 100%;
         align-items: center;
         justify-content: center;
         align-self: center;
-        background-color: red;
     }
     
     .imagemheader{
-        grid-template-columns: 1fr;
         width: 100vw;
         height: auto;
         display: flex;
     }
 
     .conteudo1{
-        width: 100vw;
+        width: 90vw;
         justify-content: center;
         text-align: center;
         align-self: center;
@@ -123,6 +120,12 @@ footer{
     }
     .imagemwish{
         padding-right: 10px;
+    }
+    .wishyouwherehere{
+        display: none;
+    }
+    .theanimals{
+        display: none;
     }
     footer{
         display: none;
